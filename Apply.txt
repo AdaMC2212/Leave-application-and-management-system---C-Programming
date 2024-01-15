@@ -1,0 +1,6 @@
+L01|S02|Lim Kah Sheng|Academic|Annual|24-02|travel|Pending
+L02|S02|Lim Kah Sheng|Academic|Annual|25-02|travel|Rejected
+L03|S03|Taufik|Academic|Annual|25-02|travel with Lim Kah Sheng|Pending
+L05|S02|Lim Kah Sheng|Academic|Medical|21-03|sick|Rejected
+L06|S06|Jason Chin|Technical|Annual|01-03|birthday|Pending
+L07|S02|Lim Kah Sheng|Academic|Emergency|28-02|wedding anniversary|Pending

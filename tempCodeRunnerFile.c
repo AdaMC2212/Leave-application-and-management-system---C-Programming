@@ -1,0 +1,1 @@
+&& !(Check_Current_Time(File.staff_leave.leave_date)))

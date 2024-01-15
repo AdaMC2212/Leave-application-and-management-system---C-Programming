@@ -1,0 +1,29 @@
+MONTHLY REPORT
+___________________________________________________________________
+
+Department     : Academic
+
+Selected Month : 2
+
+======== Pending List ========
+
+Leave ID  |Staff ID  |Name                          |Leave Type     |Date      |Reason                                  |Status
+L01       |S02       |Lim Kah Sheng                 |Annual         |24-02     |travel                                  |Pending
+L03       |S03       |Taufik                        |Annual         |25-02     |travel with Lim Kah Sheng               |Pending
+L07       |S02       |Lim Kah Sheng                 |Emergency      |28-02     |wedding anniversary                     |Pending
+
+======== Approved List ========
+
+Leave ID  |Staff ID  |Name                          |Leave Type     |Date      |Reason                                  |Status
+____________________________________________________________________________
+There is not any Approved leave application in this department for this month
+
+======== Rejected List ========
+
+Leave ID  |Staff ID  |Name                          |Leave Type     |Date      |Reason                                  |Status
+L02       |S02       |Lim Kah Sheng                 |Annual         |25-02     |travel                                  |Rejected
+
+____________________________________________________________________________
+There is 3 pending leave application in this month by Academic department
+There is 0 approved leave application in this month by Academic department
+There is 1 rejected leave application in this month by Academic department

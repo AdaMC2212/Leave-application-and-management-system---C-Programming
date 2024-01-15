@@ -1,0 +1,8 @@
+S01|John|Academic|Superior|apusup0|sup0
+S02|Lim Kah Sheng|Academic|Staff|apustaff0|staff0
+S03|Taufik|Academic|Staff|apustaff1|staff1
+S04|Syed|Technical|Superior|apusup1|sup1
+S05|Chris|Technical|Staff|apustaff2|staff2
+S06|Jason Chin|Technical|Staff|qwe|123
+S07|Jason Kong|Technical|Staff|123|123
+S08|Yoon|Academic|Staff|yoon|1111
